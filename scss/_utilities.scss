@@ -126,3 +126,15 @@ input[class^='btn-']:hover {
   display: block;
   margin: 0 auto 1rem auto;
 }
+
+.item-text-wrap {
+  .item-link {
+    background: #fff !important;
+    color: #000;
+  }
+
+  .item-link:hover {
+    background: #000 !important;
+    color: #fff;
+  }
+}

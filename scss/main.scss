@@ -398,6 +398,7 @@ img {
         align-items: center;
 
         .social .fab {
+            color: #fff;
             margin-right: 1rem;
             border: 2px solid #fff;
             border-radius: 50%;
@@ -410,6 +411,7 @@ img {
 
             &:hover {
                 background: $main-color;
+                color: #000;
                 transition: all 1s;
             }
 
